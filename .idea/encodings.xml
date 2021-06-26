@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/DataShowDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/DeviceStatusReciever.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/Infomation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/MotorControlDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/ParsedRespond.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/ParsedStatus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/RespondCodeException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/RespondParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/StartSwing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fy/tianyi/TimestampConverter.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
